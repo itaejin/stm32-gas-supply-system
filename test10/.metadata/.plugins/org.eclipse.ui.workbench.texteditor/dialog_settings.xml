@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="newfunc == 3"/>
+		<item value="newfunc == 5"/>
+		<item value="update"/>
+		<item value="SIMULATION"/>
+		<item value="processback"/>
+		<item value="PT1_prep_acknowledged"/>
+		<item value="updategraph"/>
+		<item value="updategas"/>
+		<item value="simulation"/>
+		<item value="gaslamp_update_pending"/>
+		<item value="newfunc == 16"/>
+		<item value="process"/>
+		<item value="SIMUL"/>
+		<item value="adcdata1"/>
+		<item value="func == 16"/>
+	</list>
+</section>

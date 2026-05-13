@@ -1,0 +1,17 @@
+DebugStep
+NewAddr
+NoRespCnt
+RxBuf3[0]
+TxBuf3[0]
+NewWindow
+DebugAddr
+IO_SolNONC_cnt
+IO_UseBuzzer
+adcdata1
+adcdata2
+adcdata3
+hadc1
+PT1.Offset
+Password.CurValue
+Password.ChangedValue
+Password.SavedValue

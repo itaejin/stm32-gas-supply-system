@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="NewAddr"/>
+		<item value="64"/>
+		<item value="modbus"/>
+		<item value="HAL_GPIO_WritePin"/>
+		<item value="start_ts"/>
+		<item value="init_ts"/>
+		<item value="newfunc == 16"/>
+		<item value="graph_update_pending"/>
+		<item value="newfunc == 5"/>
+		<item value="UpdateGasLampStatus"/>
+		<item value="update"/>
+		<item value="debugaddr"/>
+		<item value="toggle"/>
+		<item value="newfunc == 3"/>
+		<item value="30"/>
+	</list>
+</section>

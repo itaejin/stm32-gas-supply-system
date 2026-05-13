@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="IOdata.PrepChgPT1Alarm"/>
+		<item value="SIMULATION"/>
+		<item value="ALARMRESET"/>
+		<item value="ALARMRE"/>
+		<item value="UPDATEFLOW"/>
+		<item value="PrepChgPT1Alarm"/>
+		<item value="UpdateAlarmLampOutput"/>
+		<item value="ReadInputPins"/>
+		<item value="pressure_sensor_active"/>
+		<item value="PasswordChangeTracker"/>
+		<item value="current_emergency"/>
+		<item value="emergency_stop_active"/>
+		<item value="read"/>
+		<item value="updateflow"/>
+		<item value="DebugIOStatus"/>
+	</list>
+</section>
